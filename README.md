@@ -15,6 +15,7 @@
 <p align="center">
   <img src="./assets/2.png" alt="Seat Reservation Demo 1" width="400"/>
 </p>
+
 ---
 
 ## Project Description
@@ -58,4 +59,5 @@ Run via IntelliJ IDEA:
 Open the project in IntelliJ IDEA
 
 Right-click Main.java → Run 'Main.main()'
+
 
